@@ -18,9 +18,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+PS Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`291395` | Bonagiri Jayanth  | F_01, F_02, F_03, F_04, F_05, F_06, F_07, F_08, F_09, F_10, F_11   | 2     | 1   |5  |5     
+`99006124` | Bonagiri Jayanth  | F_01, F_02, F_03, F_04, F_05, F_06, F_07, F_08, F_09, F_10, F_11   | 2     | 1   |5  |5     
    
 
 | Feature Id | Feature |
